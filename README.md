@@ -7,7 +7,7 @@
 <img src="https://github.com/eltonlazzarin/aircnc-app/blob/master/frontend/browsermainpage.png">
 
 <p align="center">
-  <img src="https://github.com/eltonlazzarin/aircnc-app/blob/master/aircnc/mobile.gif" hight="400" width="350">
+  <img src="https://github.com/eltonlazzarin/aircnc-app/blob/master/aircnc/mobile.gif" hight="390" width="350">
 </p>
 
 
