@@ -1,6 +1,6 @@
 # aircnc - A Full Stack Project App 
 
-### Project made with NodeJS, React and React Native
+### Project made with NodeJS, ReactJS and React Native
 
 <img src="https://github.com/eltonlazzarin/aircnc-app/blob/master/frontend/browserlogin.png">
 
@@ -66,6 +66,6 @@ $ npm i
 $ npm start
 ```
 
-An Expo browser tools will open in your default browser. To start the mobile app you must have open your Expo app and scan the QR Code from the Expo browser tool.
+An Expo web browser tools will open atomatically in your default browser. To start the mobile app you must have open your Expo app and scan the QR Code from the Expo browser tool.
 
-After scan the QR Code the app will be shown in your smartphone or virtual smartphone if you decided for.
+After scan the QR Code the aircnc app will be shown in your smartphone or virtual smartphone if you decided for.
