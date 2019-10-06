@@ -13,14 +13,14 @@
 
 # Development environment
 
-To excute all projects below, you have to install [Node.js](https://nodejs.org), [NPM](https://www.npmjs.com/) enviroment download Expo in your mobile store and an editor, like [Visual Studio Code](https://code.visualstudio.com/).
+To excute all projects below, you have to install [Node.js](https://nodejs.org), [NPM](https://www.npmjs.com/) enviroment, download Expo in your mobile store and an editor, like [Visual Studio Code](https://code.visualstudio.com/).
 
 
 # Usage
 
 # Starting the API project
 
-After cloning this project to your computer, install all dependencies needed to backend, frontend and RocketBox mobile app (separately), typing in your terminal like below.
+After cloning this project to your computer, install all dependencies needed to backend, frontend and aircnc mobile app (separately), typing in your terminal like below.
 
 ```sh
 $ aircnc-app
